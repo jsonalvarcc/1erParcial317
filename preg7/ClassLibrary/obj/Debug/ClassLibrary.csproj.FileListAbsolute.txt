@@ -1,0 +1,4 @@
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\ClassLibrary\obj\Debug\ClassLibrary.pdb

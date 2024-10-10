@@ -1,0 +1,9 @@
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\bin\Debug\preg9.exe.config
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\obj\Debug\preg9.csprojResolveAssemblyReference.cache
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\obj\Debug\preg9.Form1.resources
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\obj\Debug\preg9.Properties.Resources.resources
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\obj\Debug\preg9.csproj.GenerateResource.Cache
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\bin\Debug\preg9.exe
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\bin\Debug\preg9.pdb
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\obj\Debug\preg9.exe
+C:\Users\alvar\Desktop\inf317\ex_1erp\p9\preg9\preg9\obj\Debug\preg9.pdb

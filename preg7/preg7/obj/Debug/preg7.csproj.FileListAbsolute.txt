@@ -1,0 +1,14 @@
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\bin\Debug\preg7.exe.config
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\obj\Debug\preg7.csprojResolveAssemblyReference.cache
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\obj\Debug\preg7.Form1.resources
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\obj\Debug\preg7.Properties.Resources.resources
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\obj\Debug\preg7.csproj.GenerateResource.Cache
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\bin\Debug\preg7.exe
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\bin\Debug\preg7.pdb
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\obj\Debug\preg7.exe
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\obj\Debug\preg7.pdb
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\bin\Debug\ClassLibrary.dll
+C:\Users\alvar\Desktop\inf317\examen_1er_par\preg7\preg7\bin\Debug\ClassLibrary.pdb
+C:\Users\alvar\Desktop\inf317\ex_1er_par\preg7\preg7\bin\Debug\preg7.exe.config
+C:\Users\alvar\Desktop\inf317\ex_1er_par\preg7\preg7\obj\Debug\preg7.exe
+C:\Users\alvar\Desktop\inf317\ex_1er_par\preg7\preg7\obj\Debug\preg7.pdb
